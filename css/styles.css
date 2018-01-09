@@ -1,0 +1,7 @@
+.walrus-showing {
+  display: none;
+}
+ .clickable, .other-click {
+   font-style: italic;
+   color: purple;
+ }
